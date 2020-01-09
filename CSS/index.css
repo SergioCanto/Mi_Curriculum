@@ -1,0 +1,74 @@
+html{
+    background: rgb(194, 179, 146);
+}
+
+main{
+    font-family: Verdana, sans-serif;
+    font-size: 13px;
+    color: black;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+body{
+    font-family: Verdana, sans-serif;
+    font-size: 13px;
+    color: black;
+    margin: 0;
+    padding: 10px;
+}
+
+footer{
+    font-family: Verdana, sans-serif;
+    font-size: 13px;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    float: right;
+    width: 12%;
+    margin-right: 200px;
+    border-radius: 10px;
+    border: 5px groove blue;
+}
+
+h2{
+    margin-bottom: 0;
+}
+
+main>address{
+    font-size: 15px;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.rayado{
+    text-decoration: underline;
+    padding-left: 15px;
+}
+
+#intercambio{
+    margin-top: 15px;
+}
+
+li{
+    padding-bottom: 5px;
+}
+
+footer>ul>li{
+    padding-bottom: 10px;
+    list-style-type: square;
+}
+
+.circle{
+    list-style-type: circle;
+}
+
+h3{
+    border-left: 3px solid blue;
+}
